@@ -1,0 +1,99 @@
+.cont{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+}
+
+.bir{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    border: 2px solid black;
+    background-color: rgb(28, 209, 106);
+}
+
+.iki{
+    width:100%;
+    height: 450px;
+    display: flex;
+    background-color: blue;
+}
+.bir1{
+    width: 500px;
+    height: 48px;
+    border: 2px solid black;
+    background-color: blueviolet;
+}
+
+.iki1{
+    width: 50%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background-color: rgb(109, 106, 106);
+}
+.iki2{
+    width: 50%;
+    height: 450px;
+    background-color: rgb(117, 197, 13);
+}
+.b{
+    width:100%;
+    height:109px ;
+    border: 2px solid black;
+}
+.a{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(205, 198, 15);
+}
+.cont2{
+    width: 100%;
+    height: 500px;
+    margin-top: 20px;
+}
+.z{
+    width: 100%;
+    height: 50px;
+    border: 2px solid black;
+    background-color: blue;
+   
+}
+.z1{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    align-items: last baseline;
+}
+.z11{
+    width: 79%;
+    height: 440px;
+    display: flex;
+    flex-wrap:wrap;    
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background-color: green;
+   
+}
+.z22{
+    width: 19%;
+    height: 440px;
+    border: 2px solid rgb(8, 6, 6);
+    background-color: red;
+   
+}
+.z2{
+    width: 100%;
+    height: 50px;
+    border: 2px solid black;
+    background-color: blue;
+   
+}
+.z12{
+    width: 170px;
+    height: 170px;
+    border: 2px solid black;
+}
